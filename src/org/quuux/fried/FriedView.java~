@@ -1,0 +1,3 @@
+package org.quuux.fried;
+
+import android.content.Context;
